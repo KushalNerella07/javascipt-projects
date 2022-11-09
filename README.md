@@ -1,2 +1,2 @@
 # javascipt-projects
-A collection of JavaScript projects that I have worked on 
+A collection of JavaScript projects and UI components that I build to learn and practice. 
